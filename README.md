@@ -20,3 +20,7 @@ Danny has shared with you 3 key datasets for this case study:
 - [sales](https://github.com/imanAdeko/Danny-s-Diner/blob/main/Datasets/Sales.csv)
 - [menu](https://github.com/imanAdeko/Danny-s-Diner/blob/main/Datasets/Menu.csv)
 - [members](https://github.com/imanAdeko/Danny-s-Diner/blob/main/Datasets/Member.csv)
+
+You can inspect the entity relationship diagram and example data below.
+
+[![Entity Relationship Diagram](https://user-images.githubusercontent.com/108689709/191498988-2ad49b66-5019-42ab-9e88-4f9d8bc8ec84.png)](https://github.com/imanAdeko/Danny-s-Diner/blob/main/Entity%20Relationship%20Diagram.png)
